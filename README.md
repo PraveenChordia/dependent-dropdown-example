@@ -37,3 +37,6 @@ The project will be available at **127.0.0.1:8000**.
 ## License
 
 The source code is released under the [MIT License](https://github.com/sibtc/dependent-dropdown-example/blob/master/LICENSE).
+
+Website to this project:
+https://simpleisbetterthancomplex.com/tutorial/2018/01/29/how-to-implement-dependent-or-chained-dropdown-list-with-django.html
